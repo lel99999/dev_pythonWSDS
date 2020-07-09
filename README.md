@@ -5,7 +5,7 @@ Web Scraping with Python Development<br/>
 `$pip install -r requirements.txt`<br/>
 
 #### Beautify Soup Notes:
->find_all(tag, attributes, recursive, text, limit, keywords)
->find(tag, attributes, recursive, text, keywords)
+>find_all(tag, attributes, recursive, text, limit, keywords)<br/>
+>find(tag, attributes, recursive, text, keywords)<br/>
 
 
